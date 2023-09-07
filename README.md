@@ -3,6 +3,9 @@
 
 - <b>Security Incident Simulation Lab</b>
   - [Security Incident Simulation Lab](https://github.com/ShamanLaz/Security-Incident-Simulation-Lab)
+- <b>Detection & Monitoring Lab</b>
+  - [Detection & Monitoring Lab](https://github.com/ShamanLaz/Detection-Monitoring-Lab)
+
 
 <h2> 🤳 Connect with me:</h2>
 
