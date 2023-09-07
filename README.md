@@ -1,8 +1,8 @@
 <h1>Hi, I'm Lazaro! <a href="https://www.linkedin.com/in/lazaro-rivera-5a13b5233/">Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects & Labs:</h2>
 
-- <b>So you want to be a SOC Analyst Home Lab</b>
-  - [SOC Analyst Home Lab](https://github.com/ShamanLaz/So-you-want-to-be-a-SOC-Analyst-Lab/)
+- <b>Security Incident Simulation Lab</b>
+  - [Security Incident Simulation Lab](https://github.com/ShamanLaz/Security-Incident-Simulation-Lab)
 
 <h2> 🤳 Connect with me:</h2>
 
